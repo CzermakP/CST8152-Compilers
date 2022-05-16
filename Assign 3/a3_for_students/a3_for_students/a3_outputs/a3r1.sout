@@ -1,0 +1,182 @@
+Reading file a3r1.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  443
+The current size of the buffer is:  443
+
+Printing input buffer contents:
+
+%% This is a syntactically correct PLATYPUS program
+%% Weiler's law:
+%% "Nothing is impossible for the man who doesn't have to do it himself."
+%% "Parsing is passing." S^R & Compilers' law
+
+MAIN{
+ a=-000;
+ b=+0.;
+ READ(c);
+ READ(d,e,f);
+ c=((d+e)/a)*f-(((d-e)*a)/f);
+ WHILE TRUE(a!=b .OR. c==d .AND. e<f .OR. a>0)DO{
+   IF TRUE(a==1 .AND. b==0.0)THEN{
+    c=-(5.9);
+   }ELSE {c=-c;};  
+ };   
+ WRITE();
+ WRITE('Results: ');
+ WRITE(d,e,f,a);
+}ÿ
+
+Parsing the source file...
+
+PLATY: Primary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Variable identifier parsed
+PLATY: Variable list parsed
+PLATY: Input statement parsed
+PLATY: Statement parsed
+PLATY: Variable identifier parsed
+PLATY: Variable identifier parsed
+PLATY: Variable identifier parsed
+PLATY: Variable list parsed
+PLATY: Input statement parsed
+PLATY: Statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical AND expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical OR expression parsed
+PLATY: Logical OR expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical AND expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Selection statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Iteration statement parsed
+PLATY: Statement parsed
+PLATY: Output variable list parsed
+PLATY: Output statement parsed
+PLATY: Statement parsed
+PLATY: Output variable list parsed
+PLATY: Output statement parsed
+PLATY: Statement parsed
+PLATY: Variable identifier parsed
+PLATY: Variable identifier parsed
+PLATY: Variable identifier parsed
+PLATY: Variable identifier parsed
+PLATY: Variable list parsed
+PLATY: Output variable list parsed
+PLATY: Output statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Collecting garbage...

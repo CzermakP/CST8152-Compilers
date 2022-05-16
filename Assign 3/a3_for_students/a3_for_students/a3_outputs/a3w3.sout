@@ -1,0 +1,62 @@
+Reading file a3w3.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  352
+The current size of the buffer is:  352
+
+Printing input buffer contents:
+
+%%This program contains a syntax error
+%%Forsyth's second corollary to Murphy's law:
+%%"Just when you see the light at the end of the tunnel, the roof caves."
+
+MAIN{
+ READ(IF);
+ $a$ = '';
+ INPUT(b,a,$b$);
+ IF TRUE(if == 'begin' .AND $a$ |= a)THEN {
+   $a$ = 'begin' ++ $a$ ++ $b$ ++ 'end';
+ 
+^@$#&} ELSE{DO};
+MAIN %%What is this creature doing here?
+}ÿ
+
+Parsing the source file...
+
+PLATY: Syntax error:  Line:  6
+*****  Token code: 15 Attribute: IF
+PLATY: Variable identifier parsed
+PLATY: Variable list parsed
+PLATY: Syntax error:  Line:  6
+*****  Token code: 15 Attribute: IF
+PLATY: Input statement parsed
+PLATY: Statement parsed
+PLATY: Primary string expression parsed
+PLATY: String expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Syntax error:  Line:  8
+*****  Token code: 11 Attribute: NA
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Syntax error:  Line:  9
+*****  Token code: 12 Attribute: NA
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code: -1 Attribute: ^
+PLATY: Program parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code: 15 Attribute: ELSE
+PLATY: Source file parsed
+
+Syntax errors: 5
+
+Collecting garbage...

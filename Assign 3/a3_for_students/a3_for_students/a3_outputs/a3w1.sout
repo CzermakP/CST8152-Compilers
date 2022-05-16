@@ -1,0 +1,27 @@
+Reading file a3w1.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  282
+The current size of the buffer is:  282
+
+Printing input buffer contents:
+
+%%This program contains a syntax error
+
+MAIN{
+OUTPUT('If there is a possibility of several things going wrong,
+         the one that will cause the most damage will be the first
+         one to go wrong. Murphy's law');
+ c=(-(d+e))*f-
+   ((d-e)*a)/f); %% Missing "(" or extra ")"
+}ÿ
+
+Parsing the source file...
+
+PLATY: Syntax error:  Line:  4
+*****  Token code: 11 Attribute: NA
+
+Syntax errors: 1
+
+Collecting garbage...

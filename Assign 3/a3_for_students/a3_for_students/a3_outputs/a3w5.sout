@@ -1,0 +1,168 @@
+Reading file a3w5.pls ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  237
+The current size of the buffer is:  237
+
+Printing input buffer contents:
+
+MAIN{
+a = a .AND. a;
+b = b .OR. b;
+IF TRUE (a+a + b-b - c/c + d*d)
+THEN { a=b;} ELSE{};
+IF TRUE(c/c - d*d)
+THEN {a=b;} ELSE{};
+IF TRUE(a==a + b==b)
+THEN {a=b;} ELSE{};
+IF TRUE (c==c - d==d)
+THEN {a=b;} ELSE{};
+a = a == b;
+b = b != b; 
+}ÿ
+
+Parsing the source file...
+
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Syntax error:  Line:  2
+*****  Token code: 10 Attribute: 0
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Syntax error:  Line:  3
+*****  Token code: 10 Attribute: 1
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Syntax error:  Line:  4
+*****  Token code:  8 Attribute: 0
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Syntax error:  Line:  4
+*****  Token code:  8 Attribute: 0
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Optional statements parsed
+PLATY: Selection statement parsed
+PLATY: Statement parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Syntax error:  Line:  6
+*****  Token code:  8 Attribute: 3
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Syntax error:  Line:  6
+*****  Token code:  8 Attribute: 3
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Optional statements parsed
+PLATY: Selection statement parsed
+PLATY: Statement parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Syntax error:  Line:  8
+*****  Token code:  8 Attribute: 0
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Optional statements parsed
+PLATY: Selection statement parsed
+PLATY: Statement parsed
+PLATY: Pre-condition parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Primary relational arithmetic expression parsed
+PLATY: Relational arithmetic operator parsed
+PLATY: Relational arithmetic expression parsed
+PLATY: Relational expression parsed
+PLATY: Logical Not Expression parsed
+PLATY: Logical And Expression parsed
+PLATY: Logical Or Expression parsed
+PLATY: Conditional expression parsed
+PLATY: Syntax error:  Line: 10
+*****  Token code:  8 Attribute: 1
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Optional statements parsed
+PLATY: Selection statement parsed
+PLATY: Statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Syntax error:  Line: 12
+*****  Token code:  9 Attribute: 0
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Primary arithmetic expression parsed
+PLATY: Multiplicative arithmetic expression parsed
+PLATY: Additive arithmetic expression parsed
+PLATY: Arithmetic expression parsed
+PLATY: Assignment expression parsed
+PLATY: Syntax error:  Line: 13
+*****  Token code:  9 Attribute: 1
+PLATY: Assignment statement parsed
+PLATY: Statement parsed
+PLATY: Statements parsed
+PLATY: Optional statements parsed
+PLATY: Program parsed
+PLATY: Source file parsed
+
+Syntax errors: 8
+
+Collecting garbage...
